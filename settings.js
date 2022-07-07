@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918590451659']
-global.premium = ['918590451659']
-global.ownernomer = '918590451659'
-global.ownername = '🦄Dream Guy iiuzi'
-global.botname = 'Minx Bot MD'
-global.footer = 'iiuzi Bot Inc.'
-global.ig = 'https://github.com/iiuzi-0x'
+global.owner = ['212695290310']
+global.premium = ['212695290310']
+global.ownernomer = '212695290310'
+global.ownername = 'ᴍᴏᴜᴀᴅ ᴇʟ'
+global.botname = 'OWEN BOT'
+global.footer = 'ᴍʏ ɪɴsᴛᴀɢʀᴀᴍ :  ᴍᴏᴜᴜᴀᴅ__ᴇʟᴋ '
+global.ig = 'https://github.com/cristiano800'
 global.region = 'India, kerala ,mlp'
 global.sc = 'https://github.com/iiuzi-0x/Minx-MD'
-global.myweb = 'https://youtu.be/kb1cGKUo-Jg'
-global.packname = 'Minx Bot'
-global.author = '🦄Dream Guy iiuzi'
+global.myweb = 'https://instagram.com/mouuad__elk'
+global.packname = 'OWEN BOT'
+global.author = 'ᴍʏ ɪɴsᴛᴀɢʀᴀᴍ :  ᴍᴏᴜᴜᴀᴅ__ᴇʟᴋ'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
